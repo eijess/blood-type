@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F9D0C0;
+    font: normal 15pt Arial;
+}
+
+header {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+section {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h1{
+    color: #B5A4A5;
+    font-weight: lighter;
+    font-size: 18px;
+}
+
+#doador, #receptor {
+    margin-bottom: 24px;
+    color: #009688;
+    
+}
+
+select {
+    color: #d94921;
+    border-radius: 26px;
+    background-color: antiquewhite;
+    border: antiquewhite;
+    padding: 5px 8px;
+    text-align: center;
+}
+
+p {
+    color: #B5A4A5;
+}
+
+button {
+    color: white;
+    background-color: #F9D0C0;
+    border: 2px solid #f6AEAE;
+    border-radius: 26px;
+    padding: 7px 10px;
+    font-weight: bolder;
+    box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.09);
+    cursor: pointer;
+    margin-top: 8px;
+
+}
+
+footer {
+    text-align: center;
+}
